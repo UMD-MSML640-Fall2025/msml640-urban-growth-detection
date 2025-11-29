@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Model Files
+models/*.pth
+models/*.pt
+models/checkpoints/
+
+# Data
+# Do NOT commit raw or processed satellite imagery
+data/gee_exports/
+data/processed/
+data/samples/
+data/**/*.tif
+data/**/*.tiff
+data/**/*.jp2
+data/**/*.png
+data/**/*.jpg
+data/**/*.npy
+data/**/*.npz
+
+# IDE & System Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Misc
+*.zip
+*.tar
+*.tar.gz
