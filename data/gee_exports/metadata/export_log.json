@@ -1,0 +1,31 @@
+{
+  "dataset": "COPERNICUS/S2_SR",
+  "description": "Urban growth 10 AOIs - BEFORE/AFTER composites",
+  "time_windows": {
+    "before": {
+      "start": "2017-01-01",
+      "end": "2017-12-31"
+    },
+    "after": {
+      "start": "2023-01-01",
+      "end": "2024-12-31"
+    }
+  },
+  "cloud_filter": {
+    "CLOUDY_PIXEL_PERCENTAGE": "< 60",
+    "mask_source": "SCL",
+    "masked_classes": [
+      "CLOUD_SHADOWS (3)",
+      "CLOUD_MEDIUM_PROBABILITY (8)",
+      "CLOUD_HIGH_PROBABILITY (9)",
+      "THIN_CIRRUS (10)",
+      "SNOW_ICE (11)"
+    ]
+  },
+  "bands_exported": [
+    "B1","B2","B3","B4","B5","B6","B7","B8","B8A","B9","B11","B12"
+  ],
+  "scale_m": 10,
+  "crs": "EPSG:3857",
+  "drive_folder": "GEE_UrbanGrowth_10AOI"
+}

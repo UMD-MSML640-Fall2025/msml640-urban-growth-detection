@@ -1,0 +1,11 @@
+AOI,City,State,Country,Before_Image,After_Image,Notes
+Austin_Pflugerville,Austin,TX,USA,Austin_Pflugerville_before.tif,Austin_Pflugerville_after.tif,Suburban growth NE of Austin
+Dallas_Frisco,Frisco,TX,USA,Dallas_Frisco_before.tif,Dallas_Frisco_after.tif,High new housing development
+Houston_Spring,Spring/Houston,TX,USA,Houston_Spring_before.tif,Houston_Spring_after.tif,North Houston suburbs
+Phoenix_Gilbert,Gilbert,AZ,USA,Phoenix_Gilbert_before.tif,Phoenix_Gilbert_after.tif,SE Phoenix metro
+Denver_Stonegate,Meridian Village/Stonegate,CO,USA,Denver_Stonegate_before.tif,Denver_Stonegate_after.tif,South Denver metro
+LasVegas_Inspirada,Inspirada/North Henderson,NV,USA,LasVegas_Inspirada_before.tif,LasVegas_Inspirada_after.tif,Master-planned community
+Charlotte_SteeleCreek,Steele Creek,NC,USA,Charlotte_SteeleCreek_before.tif,Charlotte_SteeleCreek_after.tif,SW Charlotte growth
+Apex_HaddonHall,Apex,NC,USA,Apex_HaddonHall_before.tif,Apex_HaddonHall_after.tif,Triangle region suburb
+Raleigh_BrierCreek,Raleigh/DU Airport,NC,USA,Raleigh_BrierCreek_before.tif,Raleigh_BrierCreek_after.tif,Airport corridor growth
+Raleigh_NorthHills,Raleigh Midtown,NC,USA,Raleigh_NorthHills_before.tif,Raleigh_NorthHills_after.tif,Urban infill/mixed-use
