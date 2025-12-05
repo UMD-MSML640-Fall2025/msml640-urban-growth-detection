@@ -19,12 +19,8 @@ models/checkpoints/
 
 # Data
 # Do NOT commit raw or processed satellite imagery
-data/samples/
 data/**/*.tif
 data/**/*.tiff
-data/**/*.jp2
-data/**/*.png
-data/**/*.jpg
 data/**/*.npy
 data/**/*.npz
 
