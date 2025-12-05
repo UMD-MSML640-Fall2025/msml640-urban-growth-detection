@@ -20,7 +20,6 @@ models/checkpoints/
 # Data
 # Do NOT commit raw or processed satellite imagery
 data/**/*.tif
-data/**/*.npz
 
 # IDE & System Files
 .vscode/
