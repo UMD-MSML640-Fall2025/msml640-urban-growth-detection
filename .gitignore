@@ -17,10 +17,6 @@ models/*.pth
 models/*.pt
 models/checkpoints/
 
-# Data
-# Do NOT commit raw or processed satellite imagery
-data/**/*.tif
-
 # IDE & System Files
 .vscode/
 .idea/
