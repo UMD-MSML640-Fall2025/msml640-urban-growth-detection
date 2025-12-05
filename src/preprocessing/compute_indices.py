@@ -21,6 +21,19 @@ from pathlib import Path
 import numpy as np
 import rasterio
 
+# List of all AOIs used in the project
+AOI_NAMES = [
+    "Apex_HaddonHall",
+    "Austin_Pflugerville",
+    "Charlotte_SteeleCreek",
+    "Dallas_Frisco",
+    "Denver_Stonegate",
+    "Houston_Spring",
+    "LasVegas_Inspirada",
+    "Phoenix_Gilbert",
+    "Raleigh_BrierCreek",
+    "Raleigh_NorthHills"
+]
 
 # ---------- Paths ----------
 

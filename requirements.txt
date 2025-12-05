@@ -10,3 +10,4 @@ torchaudio
 
 # Training visualization
 tensorboard
+matplotlib
