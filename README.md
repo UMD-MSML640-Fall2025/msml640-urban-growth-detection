@@ -421,8 +421,8 @@ Using balanced sampling, focal+dice loss, and data augmentation, the best model 
 |-----------|----------------------------------|
 | F1 score  | ~0.92                           |
 | IoU       | ~0.86                           |
-| Precision | high (model rarely predicts change where none exists) |
-| Recall    | high (most change pixels are captured) |
+| Precision | high |
+| Recall    | high |
 
 **Note:** Pixel accuracy is near 0.99+ but is not very informative due to heavy class imbalance (vast majority of pixels are "no change").
 
